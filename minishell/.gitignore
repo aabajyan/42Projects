@@ -1,0 +1,11 @@
+logs
+temp
+obj
+minishell
+minishell.exe
+*.o
+*.a
+*.so
+*.out
+*.log
+actual.txt

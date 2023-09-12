@@ -1,0 +1,9 @@
+philo
+philo.exe
+*.o
+*.a
+*.so
+*.out
+.idea
+.vscode
+*.log

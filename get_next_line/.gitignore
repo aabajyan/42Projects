@@ -1,0 +1,9 @@
+42cursus_gnl_tests
+gnlTester
+tester2021
+*.o
+*.out
+*.a
+*.txt
+*.log
+gnl

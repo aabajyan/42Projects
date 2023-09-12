@@ -1,0 +1,6 @@
+.DS_STORE
+build/
+*.a
+*.o
+*.out
+FT_SPLIT_TESTER/

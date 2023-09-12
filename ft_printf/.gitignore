@@ -1,0 +1,8 @@
+pft/
+printfTester/
+.vscode/
+*.o
+*.a
+*.out
+pcheck
+.DS_STORE
